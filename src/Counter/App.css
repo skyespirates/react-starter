@@ -3,4 +3,21 @@ h1 {
 }
 .btn-group {
   text-align: center;
+  padding-top: 20px;
+}
+a {
+  text-decoration: none;
+  margin-right: 15px;
+  color: white;
+}
+a:hover {
+  color: grey;
+}
+.cmr {
+  font-size: 200px !important;
+}
+.header {
+  letter-spacing: 0.5rem !important;
+}
+.body {
 }
