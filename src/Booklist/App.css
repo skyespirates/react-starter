@@ -1,0 +1,13 @@
+.form {
+  max-width: 360px;
+  margin: 10px auto;
+}
+a {
+  padding-right: 10px;
+  color: #212529;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #e9ecef;
+}
